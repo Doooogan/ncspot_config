@@ -32,4 +32,6 @@ search_match = "#f9e2af"
 # track control
 "Shift+h" = "previous"
 "Shift+l" = "next"
+"Ctrl+a" = "add"
+"Alt+a" = "add current"
 
